@@ -1,2 +1,1 @@
-# explorer
-Explorer Course - Frontend
+# Explorer
