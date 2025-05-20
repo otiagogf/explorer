@@ -1,0 +1,6 @@
+/*
+    Operadores unários
+    typeof
+    delete
+*/
+
