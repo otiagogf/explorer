@@ -45,7 +45,6 @@ window.addEventListener('keydown', handleKeyDown)
 
 function handleKeyDown(event) {
     if(event.key === 'Escape') {
-        console.log('Cliquei no ESC');
         Modal.close()
     }
 }
